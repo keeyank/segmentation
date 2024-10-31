@@ -1,0 +1,10 @@
+thin-sections/
+data/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints
+
